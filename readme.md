@@ -2,12 +2,12 @@
 
 Install :
 
-install Python
-install allure
-install selenium
-install pytest
-install webdriver-manager
-install pytest-html
+- install Python
+- install allure
+- install selenium
+- install pytest
+- install webdriver-manager
+- install pytest-html
 
 How to run : 
 
